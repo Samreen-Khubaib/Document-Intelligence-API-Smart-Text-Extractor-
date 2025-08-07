@@ -17,18 +17,17 @@ The goal of this project is to build a Document Intelligence API that can:
 - Git
 
 ### Clone the Repository:
-```bash
 git clone https://github.com/Samreen-Khubaib/Document-Intelligence-API-Smart-Text-Extractor-.git
 cd Document-Intelligence-API-Smart-Text-Extractor-
 
-Install Dependencies:
+### Install Dependencies:
 npm install
 
-Run the Server:
+### Run the Server:
 node app.js
 Server will run on http://localhost:3000
 
-📬 Postman Collection
+### 📬 Postman Collection
 A ready-to-use Postman collection is available in the /postman folder.
 
 To Use:
@@ -38,7 +37,7 @@ Select postman/Smart Text Extractor API.postman_collection.json.
 Use the "POST /extract" request.
 Attach any sample image from postman/sample-images/ or your own.
 
-🛠️ Tools & Libraries Used
+### 🛠️ Tools & Libraries Used
 Node.js – JavaScript runtime used to run the backend server.
 Express.js – Minimal web framework for creating RESTful APIs and handling routing.
 multer – Middleware for handling multipart/form-data, primarily used for uploading images and PDFs.
@@ -49,7 +48,7 @@ nodemon – Development tool that automatically restarts the server when file ch
 Postman – API testing tool used to simulate requests and test endpoints (not installed via code but used for development and testing purposes).
 
 
-📁 Folder Structure
+### 📁 Folder Structure
 
 controllers/ – Defines the functions to handle incoming HTTP requests.
     => extractController.js – Handles OCR text extraction and fetching extraction history.
