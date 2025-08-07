@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "300fe099-87a2-4e3b-b661-ee30e05c954e",
+		"name": "Smart Text Extractor API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47422725",
+		"_collection_link": "https://fa22-bse-025-5287962.postman.co/workspace/SAMREEN-KHUBAIB's-Workspace~dce9722d-94a7-4730-8e69-62ff07fb46db/collection/47422725-300fe099-87a2-4e3b-b661-ee30e05c954e?action=share&source=collection_link&creator=47422725"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3000/extract",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Samreen/Downloads/download1.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:3000/extract",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"extract"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/extract",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Samreen/Downloads/picture.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:3000/extract",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"extract"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/extract",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Samreen/Downloads/picture.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:3000/extract/history",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"extract",
+						"history"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/extract",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Samreen/Documents/Invoice No.pdf"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:3000/extract",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"extract"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

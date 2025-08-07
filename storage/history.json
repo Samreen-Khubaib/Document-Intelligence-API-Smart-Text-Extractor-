@@ -1,0 +1,771 @@
+[
+  {
+    "file_name": "his.jpg",
+    "date_processed": "2025-08-06T16:25:55.724Z",
+    "fields": {
+      "invoice_number": null,
+      "total": null
+    }
+  },
+  {
+    "file_name": "his.jpg",
+    "date_processed": "2025-08-06T16:28:55.296Z",
+    "fields": {
+      "invoice_number": "74921749400822",
+      "total": null
+    }
+  },
+  {
+    "file_name": "his.jpg",
+    "date_processed": "2025-08-06T16:29:49.420Z",
+    "fields": {
+      "invoice_number": "74921749400822",
+      "total": "€undefined"
+    }
+  },
+  {
+    "file_name": "his.jpg",
+    "date_processed": "2025-08-06T16:31:13.536Z",
+    "fields": {
+      "invoice_number": "74921749400822",
+      "total": "€285.99"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-06T16:37:24.185Z",
+    "fields": {
+      "invoice_number": null,
+      "total": null
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-06T16:40:10.433Z",
+    "fields": {
+      "invoice_number": null,
+      "total": "$123",
+      "date": null,
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-06T16:44:46.375Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "$500",
+      "date": "16 June 2025",
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "download.png",
+    "date_processed": "2025-08-06T17:16:32.015Z",
+    "fields": {
+      "invoice_number": null,
+      "total": null,
+      "date": null,
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "download.png",
+    "date_processed": "2025-08-06T17:17:01.631Z",
+    "fields": {
+      "invoice_number": null,
+      "total": null,
+      "date": null,
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T17:18:52.155Z",
+    "fields": {
+      "invoice_number": null,
+      "total": "$154.06",
+      "date": "11/02/2019",
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T17:25:20.522Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "$154.06",
+      "date": "11/02/2019",
+      "payment_status": null,
+      "delivery_date": null
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T17:29:31.923Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "$154.06",
+      "date": "11/02/2019"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-06T17:29:49.115Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "$500",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:38:06.040Z",
+    "fields": {
+      "invoice_number": "pdf",
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:41:07.128Z",
+    "fields": {
+      "invoice_number": "pdf",
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib\nPayment Status",
+      "item_list": [
+        "1. Hair Styling Gel - Qty: 2 - Unit Price: $15.00 - Total: $30.00",
+        "2. Hair Dryer - Qty: 1 - Unit Price: $120.00 - Total: $120.00"
+      ],
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:44:00.157Z",
+    "fields": {
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib\nPayment Status",
+      "item_list": [
+        "1. Hair Styling Gel - Qty: 2 - Unit Price: $15.00 - Total: $30.00",
+        "2. Hair Dryer - Qty: 1 - Unit Price: $120.00 - Total: $120.00"
+      ],
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:45:31.955Z",
+    "fields": {
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib",
+      "item_list": [
+        "1. Hair Styling Gel - Qty: 2 - Unit Price: $15.00 - Total: $30.00",
+        "2. Hair Dryer - Qty: 1 - Unit Price: $120.00 - Total: $120.00"
+      ],
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:46:50.272Z",
+    "fields": {
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib",
+      "item_list": [
+        "1. Hair Styling Gel - Qty: 2 - Unit Price: $15.00 - Total: $30.00",
+        "2. Hair Dryer - Qty: 1 - Unit Price: $120.00 - Total: $120.00"
+      ],
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T17:49:05.275Z",
+    "fields": {
+      "invoice_number": "INV-2025-00123",
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib",
+      "item_list": [
+        "1. Hair Styling Gel - Qty: 2 - Unit Price: $15.00 - Total: $30.00",
+        "2. Hair Dryer - Qty: 1 - Unit Price: $120.00 - Total: $120.00"
+      ],
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:00:20.383Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:02:15.649Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:03:19.822Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:04:42.371Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "tax": "175"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-06T18:10:41.386Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "45",
+      "date": "16 June 2025",
+      "tax": "$0"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:12:49.517Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "tax": "175"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-06T18:13:31.610Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "5",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "item_list": [
+        "Cotton Shirt                 2        750    1500 ",
+        "Denim Jeans                  1        2000   2000 "
+      ],
+      "tax": "175"
+    }
+  },
+  {
+    "file_name": "Screenshot (478).png",
+    "date_processed": "2025-08-06T18:14:20.606Z",
+    "fields": {
+      "invoice_number": "INV-2025-00123",
+      "total": "$165.00",
+      "date": "6 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "10 August 2025",
+      "customer_name": "Samreen Khubaib",
+      "tax": "$15.00"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T18:16:31.494Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": " 15",
+      "date": "11/02/2019",
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T18:19:17.978Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "145.00",
+      "date": "11/02/2019",
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T18:20:14.631Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "145.00",
+      "date": "11/02/2019",
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T18:24:35.490Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "145.00",
+      "date": "11/02/2019"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-06T18:27:03.485Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "Assignment (Backend).pdf",
+    "date_processed": "2025-08-07T11:52:36.417Z",
+    "fields": {}
+  },
+  {
+    "file_name": "chatbot.webp",
+    "date_processed": "2025-08-07T12:01:19.780Z",
+    "fields": {}
+  },
+  {
+    "file_name": "Screenshot (476).png",
+    "date_processed": "2025-08-07T12:02:24.039Z",
+    "fields": {
+      "date": "06/08/2025"
+    }
+  },
+  {
+    "file_name": "Assignment (Backend).pdf",
+    "date_processed": "2025-08-07T12:10:13.208Z",
+    "fields": {}
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:23:02.652Z",
+    "fields": {
+      "invoice_number": "12345",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T12:23:35.381Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "invoce.jpg",
+    "date_processed": "2025-08-07T12:26:51.180Z",
+    "fields": {}
+  },
+  {
+    "file_name": "Backend Developers (1st week task).pdf",
+    "date_processed": "2025-08-07T12:34:30.402Z",
+    "fields": {}
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T12:36:22.954Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:37:14.760Z",
+    "fields": {
+      "invoice_number": "12345",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-07T12:39:18.247Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "item_list": [
+        "Cotton Shirt                 2        750    1500 ",
+        "Denim Jeans                  1        2000   2000 "
+      ]
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:41:31.512Z",
+    "fields": {
+      "invoice_number": "Invoice",
+      "total": "907.50",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:46:52.607Z",
+    "fields": {
+      "invoice_number": "Invoice",
+      "total": "907.50",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:47:14.260Z",
+    "fields": {
+      "invoice_number": "12345",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:47:33.058Z",
+    "fields": {
+      "invoice_number": "12345",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T12:47:46.286Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:48:00.152Z",
+    "fields": {
+      "invoice_number": "Invoice",
+      "total": "907.50",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:48:59.973Z",
+    "fields": {
+      "invoice_number": "Invoice",
+      "total": "907.50",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T12:49:22.246Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:49:37.594Z",
+    "fields": {
+      "invoice_number": "12345",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:51:50.325Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "500",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-07T12:53:22.481Z",
+    "fields": {
+      "invoice_number": "INV-2025-001",
+      "total": "3675",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "item_list": [
+        "Cotton Shirt                 2        750    1500 ",
+        "Denim Jeans                  1        2000   2000 "
+      ]
+    }
+  },
+  {
+    "file_name": "invoce.jpg",
+    "date_processed": "2025-08-07T12:55:16.406Z",
+    "fields": {
+      "total": "4,17"
+    }
+  },
+  {
+    "file_name": "invoce.jpg",
+    "date_processed": "2025-08-07T12:56:29.810Z",
+    "fields": {
+      "total": "4,170"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:57:13.234Z",
+    "fields": {
+      "invoice_number": "Invoice",
+      "total": "907",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T12:59:24.569Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "907",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T12:59:46.430Z",
+    "fields": {
+      "invoice_number": "Imani",
+      "total": "500",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:00:44.696Z",
+    "fields": {
+      "invoice_number": "John",
+      "total": "154",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:02:33.055Z",
+    "fields": {
+      "total": "154",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T13:02:57.610Z",
+    "fields": {
+      "total": "907",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T13:04:59.980Z",
+    "fields": {
+      "total": "907",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T13:06:43.602Z",
+    "fields": {
+      "invoice_number": "Date",
+      "total": "907.50",
+      "date": "01/01/2024"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T13:07:05.797Z",
+    "fields": {
+      "invoice_number": "Imani",
+      "total": "500",
+      "date": "16 June 2025"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:07:18.920Z",
+    "fields": {
+      "invoice_number": "John",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "tax": "906"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:08:55.982Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "item_list": [
+        "Front and rear brake cables 100.00 100.00"
+      ],
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T13:09:29.965Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "500",
+      "date": "16 June 2025",
+      "tax": "0"
+    }
+  },
+  {
+    "file_name": "Image.png",
+    "date_processed": "2025-08-07T13:09:49.372Z",
+    "fields": {
+      "total": "907.50",
+      "date": "01/01/2024",
+      "tax": "82.50"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-07T13:10:22.851Z",
+    "fields": {
+      "invoice_number": "INV-2025",
+      "total": "3675",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "tax": "175"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T13:20:49.394Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "500",
+      "date": "16 June 2025",
+      "tax": "0"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T13:26:58.459Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "500",
+      "date": "16 June 2025",
+      "tax": "0"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:28:29.128Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "item_list": [
+        "Front and rear brake cables 100.00 100.00"
+      ],
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "picture.png",
+    "date_processed": "2025-08-07T13:29:12.680Z",
+    "fields": {
+      "invoice_number": "12345",
+      "total": "500",
+      "date": "16 June 2025",
+      "tax": "0"
+    }
+  },
+  {
+    "file_name": "download1.png",
+    "date_processed": "2025-08-07T13:29:40.799Z",
+    "fields": {
+      "invoice_number": "US-001",
+      "total": "154.06",
+      "date": "11/02/2019",
+      "item_list": [
+        "Front and rear brake cables 100.00 100.00"
+      ],
+      "tax": "6.25"
+    }
+  },
+  {
+    "file_name": "Invoice No.pdf",
+    "date_processed": "2025-08-07T13:30:57.731Z",
+    "fields": {
+      "invoice_number": "INV-2025",
+      "total": "3675",
+      "date": "5 August 2025",
+      "payment_status": "Paid",
+      "delivery_date": "8 August 2025",
+      "tax": "175"
+    }
+  },
+  {
+    "file_name": "Backend Developers (1st week task).pdf",
+    "date_processed": "2025-08-07T13:31:57.003Z",
+    "fields": {}
+  }
+]
